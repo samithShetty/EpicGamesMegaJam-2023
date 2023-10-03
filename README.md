@@ -5,6 +5,8 @@ Team Submission for the 2023 MegaJam hosted by Epic Games. The theme was "Antiqu
 
 ## Mechanic Spotlight - Input Playback
 One of the core mechanics of the game was an input recording and playback system, which enabled the AI to recreate the exact actions that the user took. 
-This was necessary in order to sell the *Time Travelling* effect and was how we opted to interpret the theme
+This was necessary in order to sell the *Time Travelling* effect and was how we opted to interpret the theme.
 
 ![waroboros](https://github.com/samithShetty/EpicGamesMegaJam-2023/assets/71335825/d3c1ccdd-30fe-4966-b691-225d3a07edb6)
+
+What you see above is a Player and an AI, which is mimicing the players movements and actions on a delay. In the full game prototype, the number of enemies steadily increase, turning the game into a bullet hell
